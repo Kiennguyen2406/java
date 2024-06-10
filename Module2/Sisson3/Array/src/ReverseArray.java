@@ -6,6 +6,7 @@ public class ReverseArray {
         Scanner scanner = new Scanner(System.in);
         int size;
         int [] array;
+
         //in ra độ dài mảng tùy chọn
         do{
             System.out.print("Enter the size of the array: ");
@@ -13,6 +14,8 @@ public class ReverseArray {
             if (size > 20)
                 System.out.println("The array is too large.");
         }while(size > 20);
+        array = new int[size];
+        int i=0;
 
 
         for (int i = 0; i < array.length; i++) {
