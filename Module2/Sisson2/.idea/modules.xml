@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hien-thi-20-so-nguyen-to-dau/Hien-thi-20-so-nguyen-to-dau.iml" filepath="$PROJECT_DIR$/Hien-thi-20-so-nguyen-to-dau/Hien-thi-20-so-nguyen-to-dau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hien-thi-cac-loai-hinh/Hien-thi-cac-loai-hinh.iml" filepath="$PROJECT_DIR$/Hien-thi-cac-loai-hinh/Hien-thi-cac-loai-hinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hienthicacsonguyentonhohon100/Hienthicacsonguyentonhohon100.iml" filepath="$PROJECT_DIR$/Hienthicacsonguyentonhohon100/Hienthicacsonguyentonhohon100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leap-Year-Calculator/Leap-Year-Calculator.iml" filepath="$PROJECT_DIR$/Leap-Year-Calculator/Leap-Year-Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luyentap/Luyentap.iml" filepath="$PROJECT_DIR$/Luyentap/Luyentap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator-Expression/Operator-Expression.iml" filepath="$PROJECT_DIR$/Operator-Expression/Operator-Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sisson2.iml" filepath="$PROJECT_DIR$/Sisson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/Variable-DataType/Variable-DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitaphienhello/baitaphienhello.iml" filepath="$PROJECT_DIR$/baitaphienhello/baitaphienhello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitaptrenlopfor/baitaptrenlopfor.iml" filepath="$PROJECT_DIR$/baitaptrenlopfor/baitaptrenlopfor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmi-calculator/bmi-calculator.iml" filepath="$PROJECT_DIR$/bmi-calculator/bmi-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/check-prime2/check-prime2.iml" filepath="$PROJECT_DIR$/check-prime2/check-prime2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-of-month/day-of-month.iml" filepath="$PROJECT_DIR$/day-of-month/day-of-month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draw-geometry/draw-geometry.iml" filepath="$PROJECT_DIR$/draw-geometry/draw-geometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greatest-common-factor/greatest-common-factor.iml" filepath="$PROJECT_DIR$/greatest-common-factor/greatest-common-factor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interest-calculator/interest-calculator.iml" filepath="$PROJECT_DIR$/interest-calculator/interest-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/line-equation-resolver/line-equation-resolver.iml" filepath="$PROJECT_DIR$/line-equation-resolver/line-equation-resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taotigia/taotigia.iml" filepath="$PROJECT_DIR$/taotigia/taotigia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ungdungdocsothanhchu/ungdungdocsothanhchu.iml" filepath="$PROJECT_DIR$/ungdungdocsothanhchu/ungdungdocsothanhchu.iml" />
+    </modules>
+  </component>
+</project>
