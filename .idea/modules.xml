@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/Baithuchanh/Baithuchanh.iml" filepath="$PROJECT_DIR$/Module2/Sission4/Baithuchanh/Baithuchanh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/QLSV/QLSV.iml" filepath="$PROJECT_DIR$/Module2/Sission4/QLSV/QLSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/QLSP/QLSP.iml" filepath="$PROJECT_DIR$/Module2/Sission4/QLSP/QLSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/Quanlysinhvien/Quanlysinhvien.iml" filepath="$PROJECT_DIR$/Module2/Sission4/Quanlysinhvien/Quanlysinhvien.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/Sission4.iml" filepath="$PROJECT_DIR$/Module2/Sission4/Sission4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/bai1/bai1.iml" filepath="$PROJECT_DIR$/Module2/Sission4/bai1/bai1.iml" />
       <module fileurl="file://$PROJECT_DIR$/baitapmang/baitapmang.iml" filepath="$PROJECT_DIR$/baitapmang/baitapmang.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module2/Sisson3/baitapmang1/baitapmang1.iml" filepath="$PROJECT_DIR$/Module2/Sisson3/baitapmang1/baitapmang1.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_bootcamp.iml" filepath="$PROJECT_DIR$/java_bootcamp.iml" />
