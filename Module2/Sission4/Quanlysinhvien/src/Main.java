@@ -30,7 +30,7 @@ public class Main {
                     int age = scanner.nextInt();
                     scanner.nextLine(); // Consume the remaining newline
                     SinhVien sv = new SinhVien(id, name, age);
-                    sl.addSinhVien(sv);
+                    sl.addSinhVien(sv);//Gọi phương thức đo ra
                     break;
                 case 2:
                     System.out.println("Nhập thẻ ID tương ứng: ");

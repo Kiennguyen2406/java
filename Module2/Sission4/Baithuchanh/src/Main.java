@@ -12,7 +12,7 @@ public class Main {
         double width = scanner.nextDouble();
         System.out.print("Enter the height : ");
         double height = scanner.nextDouble();
-        System.out.printf("Hello and welcome!");
+        System.out.print("Hello and welcome!");
 
        Rectangle Rec= new Rectangle(width,height);
         System.out.println("Your Rectangle"+Rec.display());
