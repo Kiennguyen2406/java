@@ -7,7 +7,7 @@ public class Office {
         int limit = scanner.nextInt();
         scanner.nextLine(); // Tiêu thụ dòng mới
 
-        EmployeeManager sl = new EmployeeManager(limit);
+        employeeManager sl = new employeeManager(limit);
 
         while (true) {
             System.out.println("1. Thêm nhân viên");
@@ -32,35 +32,66 @@ public class Office {
                     String Position = scanner.nextLine();
 
                     Staff staff1 = new OfficeStaff(Code, Phone, Name, Position);
-                    sl.AddStaff(staff1);
+                    sl.addStaff(staff1);
                     break;
                 case 2:
-                    sl.DisplaysALisTofEmployees();
+                    sl.displaysAListToStaff();
                     break;
                 case 3:
-                    System.out.println("Mã");
-                    String Code1 = scanner.nextLine();
-                    System.out.println("Phone");
-                    String Phone1 = scanner.nextLine();
-                    System.out.println("Tên");
-                    String Name1 = scanner.nextLine();
-                    System.out.println("Chức vụ");
-                    String Position1 = scanner.nextLine();
+                    System.out.println("điền code");
+                    String Code3 = scanner.nextLine();
 
-                    sl.RepairStaff(Code1, Phone1, Name1, Position1);
+                    if (sl.isEmployeeExist(Code3)) {
+
+                        String[] employeeInfo = new String[4];
+                        System.out.println("Mã");
+                        employeeInfo[0] = scanner.nextLine();
+                        System.out.println("Phone");
+                        employeeInfo[1] = scanner.nextLine();
+                        System.out.println("Tên");
+                        employeeInfo[2] = scanner.nextLine();
+                        System.out.println("Chức vụ");
+                        employeeInfo[3] = scanner.nextLine();
+
+                        sl.repairStaff(employeeInfo);
+                        System.out.println("Da them thanh cong");
+
+                    } else {
+                        System.out.println("Khoong timf thay id");
+                    }
+
+                    // sua nv nao => hoi id
+                    // id dung
+                    // id sai => sai r. end
+
+                    // id dung
+
                     break;
+
+                //
                 case 4:
-                    System.out.println("Mã");
-                    String Code2 = scanner.nextLine();
-                    sl.DeleteStaff(Code2);
-                    break;
-                case 5:
-                    System.out.println("Thoát chương trình");
-                    scanner.close();
-                    System.exit(0);
-                default:
-                    System.out.println("Lựa chọn không hợp lệ");
+                    System.out.println("điền code");
+                    String Code4 = scanner.nextLine();
+
+                    if (sl.deleteStaff(Code4)) {
+                        System.out.println("Điền code");
+                        String code4 = scanner.nextLine();
+                        if (sl.isEmployeeExist(code4)) {
+                            System.out.println("Mã");
+                            String Code2 = scanner.nextLine();
+                            sl.deleteStaff(Code2);
+                        } else {
+                            System.out.println("không tìm thấy công nhân cần xóa");
+                        }
+                        break;
+                        case 5:
+
+                            System.out.println("Thoát chương trình");
+                            scanner.close();
+                            System.exit(0);
+                        default:
+                            System.out.println("Lựa chọn không hợp lệ");
+                    }
             }
         }
     }
-}

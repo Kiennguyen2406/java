@@ -3,10 +3,10 @@ public class FactoryStaff extends Staff {
     private String FactoryCode;
     private String Type;
 
-    public FactoryStaff(String Code,String Phone,String Name,String Position,String FactoryCode,String Type){
-        super(Code,Phone,Name,Position);
-        this.FactoryCode=FactoryCode;
-        this.Type=Type;
+    public FactoryStaff(String Code, String Phone, String Name, String Position, String FactoryCode, String Type) {
+        super(Code, Phone, Name, Position);
+        this.FactoryCode = FactoryCode;
+        this.Type = Type;
     }
 
     public String getFactoryCode() {
@@ -24,6 +24,7 @@ public class FactoryStaff extends Staff {
     public void setType(String type) {
         Type = type;
     }
+
     @Override
     public String toString() {
         return "Staff{" +
@@ -36,5 +37,5 @@ public class FactoryStaff extends Staff {
                 '}';
 
     }
-    }
+}
 

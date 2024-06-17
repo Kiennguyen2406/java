@@ -1,13 +1,16 @@
 public interface WorkflowManagement {
 
-    void AddStaff(Staff sf);
+    void addStaff(Staff sf);
 
 
-    void DisplaysALisTofEmployees();
-    void RepairStaff(String Code,String Phone,String Name,String Position);
-    void RepairStaff(String Code,String Phone,String Name,String Position,String FactoryCode,String Type);
+    void displaysAListToStaff();
+    void repairStaff(String[] employeeInfo);
+    void repairStaff(String Code,String Phone,String Name,String Position,String FactoryCode,String Type);
+    boolean isEmployeeExist(String Code);
 
 
-    void DeleteStaff(String Code);
+    boolean deleteStaff(String Code);
+
+
 
 }

@@ -2,12 +2,16 @@ import java.util.Scanner;
 
 public class Factory {
     public static void main(String[] args) {
+
+
+
        Scanner scanner = new Scanner(System.in);
         System.out.println("Số lượng");
         int limit = scanner.nextInt();
         scanner.nextLine(); // Tiêu thụ dòng mới
 
-        EmployeeManager sl = new EmployeeManager(limit);
+        employeeManager sl = new employeeManager(limit);
+
 
         while (true) {
             System.out.println("1. Thêm nhân viên");
@@ -36,10 +40,10 @@ public class Factory {
                     String Type = scanner.nextLine();
 
                     Staff staff1 = new FactoryStaff(Code, Phone, Name, Position,FactoryCode,Type);
-                    sl.AddStaff(staff1);
+                    sl.addStaff(staff1);
                     break;
                 case 2:
-                    sl.DisplaysALisTofEmployees();
+                    sl.displaysAListToStaff();
                     break;
                 case 3:
                     System.out.println("Mã");
@@ -55,12 +59,15 @@ public class Factory {
                     System.out.println("Kiểu");
                     Type = scanner.nextLine();
 
-                    sl.RepairStaff(Code1, Phone1, Name1, Position1,FactoryCode,Type);
+                    sl.repairStaff(Code1, Phone1, Name1, Position1,FactoryCode,Type);
                     break;
                 case 4:
+
+
+
                     System.out.println("Mã");
                     String Code2 = scanner.nextLine();
-                    sl.DeleteStaff(Code2);
+                    sl.deleteStaff(Code2);
                     break;
                 case 5:
                     System.out.println("Thoát chương trình");
