@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bae5fba-14a7-43b9-b403-3afb75046f6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../session4/bai1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session4/bai1/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session4/bai2/src/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session4/bai3/src/FAN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session4/test/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT1/src/entity/Cirle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT1/src/entity/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/src/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/src/Point2DTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/src/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/src/MoveablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/src/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cylindertest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/entity/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/entity/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/entity/src/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/entity/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/src/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1/src/shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session7/baidocloptruutuong/src/Cricle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session7/baidocloptruutuong/src/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session7/src/ManagerStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson2/taotigia/taotigia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson2/ungdungdocsothanhchu/ungdungdocsothanhchu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson3/Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson3/baitapmang1/baitapmang1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson5/Thuchanh1/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson5/package/package.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson5/package/src/Print/SetUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson5/package/src/bookstore/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sesson5/sesson5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/Baithuchanh/Baithuchanh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/Baithuchanh/Baithuchanh.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/Baithuchanh/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/Baithuchanh/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/Baithuchanh/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/Baithuchanh/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/QLSP/QLSP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/QLSP/QLSP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/QLSP/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/QLSP/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/Quanlysinhvien/Quanlysinhvien.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/Quanlysinhvien/Quanlysinhvien.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/Quanlysinhvien/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/Quanlysinhvien/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/Quanlysinhvien/src/QuanLySinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/Quanlysinhvien/src/QuanLySinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/Quanlysinhvien/src/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/Quanlysinhvien/src/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/Sission4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/bai2/bai2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/bai1/bai1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/bai1/bai1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/bai1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/bai1/src/bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Hien-thi-20-so-nguyen-to-dau/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sission4/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Hien-thi-20-so-nguyen-to-dau/Hien-thi-20-so-nguyen-to-dau.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/session4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Hien-thi-20-so-nguyen-to-dau/src/HienThi20SoNguyenDau.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Hien-thi-20-so-nguyen-to-dau/src/HienThi20SoNguyenDau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Hien-thi-20-so-nguyen-to-dau/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Hien-thi-cac-loai-hinh/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Hien-thi-cac-loai-hinh/Hien-thi-cac-loai-hinh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session4/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Hien-thi-cac-loai-hinh/src/HienThiHinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Hien-thi-cac-loai-hinh/src/HienThiHinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Hien-thi-cac-loai-hinh/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Hienthicacsonguyentonhohon100/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Hienthicacsonguyentonhohon100/Hienthicacsonguyentonhohon100.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Hienthicacsonguyentonhohon100/src/HienThiCacSoNguyenTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Hienthicacsonguyentonhohon100/src/HienThiCacSoNguyenTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Hienthicacsonguyentonhohon100/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Leap-Year-Calculator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Leap-Year-Calculator/Leap-Year-Calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../session6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Leap-Year-Calculator/src/LeapYearCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Leap-Year-Calculator/src/LeapYearCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Leap-Year-Calculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Luyentap/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Luyentap/Luyentap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Hien-thi-20-so-nguyen-to-dau/Hien-thi-20-so-nguyen-to-dau.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Luyentap/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Luyentap/src/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Luyentap/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Operator-Expression/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Operator-Expression/Operator-Expression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Hien-thi-cac-loai-hinh/Hien-thi-cac-loai-hinh.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Operator-Expression/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Variable-DataType/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Operator-Expression/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Operator-Expression/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Sisson2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Hienthicacsonguyentonhohon100/Hienthicacsonguyentonhohon100.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Variable-DataType/Variable-DataType.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Leap-Year-Calculator/Leap-Year-Calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Variable-DataType/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/baitaphienhello/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/Variable-DataType/src/VariableDataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Variable-DataType/src/VariableDataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/baitaphienhello/baitaphienhello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Luyentap/Luyentap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/baitaphienhello/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/baitaptrenlopfor/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/baitaphienhello/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/baitaphienhello/src/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/baitaptrenlopfor/baitaptrenlopfor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Operator-Expression/Operator-Expression.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/baitaptrenlopfor/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/bmi-calculator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/baitaptrenlopfor/src/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/baitaptrenlopfor/src/app.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/bmi-calculator/bmi-calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Sisson2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/bmi-calculator/src/BodyMassIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/bmi-calculator/src/BodyMassIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/bmi-calculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/check-prime2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/check-prime2/check-prime2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/Variable-DataType/Variable-DataType.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/check-prime2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/day-of-month/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/check-prime2/src/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/check-prime2/src/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/day-of-month/day-of-month.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/baitaphienhello/baitaphienhello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/day-of-month/src/DayOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/day-of-month/src/DayOfMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/day-of-month/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/draw-geometry/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/draw-geometry/draw-geometry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/baitaptrenlopfor/baitaptrenlopfor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/draw-geometry/src/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/draw-geometry/src/Geometry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/draw-geometry/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/greatest-common-factor/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/greatest-common-factor/greatest-common-factor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/bmi-calculator/bmi-calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/greatest-common-factor/src/BaiDuPhong2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/greatest-common-factor/src/BaiDuPhong2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/greatest-common-factor/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/interest-calculator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/greatest-common-factor/src/timuoc2so.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/greatest-common-factor/src/timuoc2so.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/greatest-common-factor/src/ucln.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/greatest-common-factor/src/ucln.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/interest-calculator/interest-calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/check-prime2/check-prime2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/interest-calculator/src/Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/interest-calculator/src/Interest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/interest-calculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/line-equation-resolver/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/line-equation-resolver/line-equation-resolver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/day-of-month/day-of-month.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/line-equation-resolver/src/LinearEquationResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/line-equation-resolver/src/LinearEquationResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/line-equation-resolver/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/CopySangMangMoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/CopySangMangMoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/GoiPhuongThuc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/GoiPhuongThuc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/In.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/In.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/Mang1Chieu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/Mang1Chieu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/Printf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/Printf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/Ragged.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/Ragged.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/RaggedLoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/RaggedLoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/ReverseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/TestReturnGradeMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/TestReturnGradeMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/TestVoidMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/TestVoidMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/TruyenThamTriThamChieu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/TruyenThamTriThamChieu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/nhapmang1chieu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/nhapmang1chieu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/nhapmang2chieu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/nhapmang2chieu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Array/tinhtongmang2chieu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Array/tinhtongmang2chieu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Hien-thi-20-so-nguyen-to-dau/HienThi20SoNguyenDau.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Hien-thi-20-so-nguyen-to-dau/HienThi20SoNguyenDau.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Hien-thi-20-so-nguyen-to-dau/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Hien-thi-20-so-nguyen-to-dau/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Hien-thi-cac-loai-hinh/HienThiHinh.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Hien-thi-cac-loai-hinh/HienThiHinh.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Hien-thi-cac-loai-hinh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Hien-thi-cac-loai-hinh/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Hienthicacsonguyentonhohon100/HienThiCacSoNguyenTo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Hienthicacsonguyentonhohon100/HienThiCacSoNguyenTo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Hienthicacsonguyentonhohon100/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Hienthicacsonguyentonhohon100/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Leap-Year-Calculator/LeapYearCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Leap-Year-Calculator/LeapYearCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Leap-Year-Calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Leap-Year-Calculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Luyentap/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Luyentap/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Luyentap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Luyentap/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Operator-Expression/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Operator-Expression/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Operator-Expression/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Operator-Expression/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Variable-DataType/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Variable-DataType/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/Variable-DataType/VariableDataType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/Variable-DataType/VariableDataType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/baitaphienhello/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/baitaphienhello/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/baitaphienhello/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/baitaphienhello/hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/baitaptrenlopfor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/baitaptrenlopfor/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/baitaptrenlopfor/app.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/baitaptrenlopfor/app.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/bmi-calculator/BodyMassIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/bmi-calculator/BodyMassIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/bmi-calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/bmi-calculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/check-prime2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/check-prime2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/check-prime2/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/check-prime2/Prime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/day-of-month/DayOfMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/day-of-month/DayOfMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/day-of-month/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/day-of-month/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/draw-geometry/Geometry.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/draw-geometry/Geometry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/draw-geometry/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/draw-geometry/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/greatest-common-factor/BaiDuPhong2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/greatest-common-factor/BaiDuPhong2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/greatest-common-factor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/greatest-common-factor/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/greatest-common-factor/timuoc2so.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/greatest-common-factor/timuoc2so.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/greatest-common-factor/ucln.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/greatest-common-factor/ucln.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/interest-calculator/Interest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/interest-calculator/Interest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/interest-calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/interest-calculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/line-equation-resolver/LinearEquationResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/line-equation-resolver/LinearEquationResolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/line-equation-resolver/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/line-equation-resolver/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/system-time/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/system-time/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/system-time/SystemTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/system-time/SystemTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/taotigia/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/taotigia/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/taotigia/taotigia.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/taotigia/taotigia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/ungdungdocsothanhchu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/ungdungdocsothanhchu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/out/production/ungdungdocsothanhchu/ungdungdocsothanhchu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/out/production/ungdungdocsothanhchu/ungdungdocsothanhchu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/taotigia/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/src/SystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/src/SystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/taotigia/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/ungdungdocsothanhchu/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/taotigia/src/taotigia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/taotigia/src/taotigia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/taotigia/taotigia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/draw-geometry/draw-geometry.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/ungdungdocsothanhchu/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/ungdungdocsothanhchu/src/ungdungdocsothanhchu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/ungdungdocsothanhchu/src/ungdungdocsothanhchu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson2/ungdungdocsothanhchu/ungdungdocsothanhchu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/greatest-common-factor/greatest-common-factor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/interest-calculator/interest-calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/ConvertTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/ConvertTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/CopySangMangMoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/CopySangMangMoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/GoiPhuongThuc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/GoiPhuongThuc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/In.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/In.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/baitapmang1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/Mang1Chieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/Mang1Chieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/NumberArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/NumberArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/Printf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/Printf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/Ragged.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/Ragged.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/RaggedLoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/RaggedLoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/TestReturnGradeMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/TestReturnGradeMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/TestVoidMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/TestVoidMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/TruyenThamTriThamChieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/TruyenThamTriThamChieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/nhapmang1chieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/nhapmang1chieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/nhapmang2chieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/nhapmang2chieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/Array/src/tinhtongmang2chieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/Array/src/tinhtongmang2chieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/baitapmang1/baitapmang1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson2/line-equation-resolver/line-equation-resolver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/baitapmang1/src/Gopmang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/baitapmang1/src/Gopmang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/baitapmang1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/baitapmang1/src/XoaPhanTu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/baitapmang1/src/XoaPhanTu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sisson3/baitapmang1/src/themptu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesson3/baitapmang1/src/themptu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_bootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Quanlysinhvien/QuanLySinhVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/Quanlysinhvien/QuanLySinhVien.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2hrKfQMaJXkpXO6TUnhXv9U3viD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/java/java_bootcamp/module2/session6/baitap1",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bae5fba-14a7-43b9-b403-3afb75046f6a" name="Changes" comment="" />
+      <created>1718346858670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718346858670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

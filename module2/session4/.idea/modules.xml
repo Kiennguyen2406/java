@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Baithuchanh/Baithuchanh.iml" filepath="$PROJECT_DIR$/Baithuchanh/Baithuchanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QLSP/QLSP.iml" filepath="$PROJECT_DIR$/QLSP/QLSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quanlysinhvien/Quanlysinhvien.iml" filepath="$PROJECT_DIR$/Quanlysinhvien/Quanlysinhvien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai1/bai1.iml" filepath="$PROJECT_DIR$/bai1/bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai2/bai2.iml" filepath="$PROJECT_DIR$/bai2/bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai3/bai3.iml" filepath="$PROJECT_DIR$/bai3/bai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4.iml" filepath="$PROJECT_DIR$/session4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>

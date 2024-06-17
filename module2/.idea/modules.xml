@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sesson3/Array/Array.iml" filepath="$PROJECT_DIR$/sesson3/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session6/BT1/BT1.iml" filepath="$PROJECT_DIR$/session6/BT1/BT1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4/Baithuchanh/Baithuchanh.iml" filepath="$PROJECT_DIR$/session4/Baithuchanh/Baithuchanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/Hien-thi-20-so-nguyen-to-dau/Hien-thi-20-so-nguyen-to-dau.iml" filepath="$PROJECT_DIR$/sesson2/Hien-thi-20-so-nguyen-to-dau/Hien-thi-20-so-nguyen-to-dau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/Hien-thi-cac-loai-hinh/Hien-thi-cac-loai-hinh.iml" filepath="$PROJECT_DIR$/sesson2/Hien-thi-cac-loai-hinh/Hien-thi-cac-loai-hinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/Hienthicacsonguyentonhohon100/Hienthicacsonguyentonhohon100.iml" filepath="$PROJECT_DIR$/sesson2/Hienthicacsonguyentonhohon100/Hienthicacsonguyentonhohon100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/Leap-Year-Calculator/Leap-Year-Calculator.iml" filepath="$PROJECT_DIR$/sesson2/Leap-Year-Calculator/Leap-Year-Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/Luyentap/Luyentap.iml" filepath="$PROJECT_DIR$/sesson2/Luyentap/Luyentap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/Operator-Expression/Operator-Expression.iml" filepath="$PROJECT_DIR$/sesson2/Operator-Expression/Operator-Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QLNV_hoanthien/QLNV_hoanthien.iml" filepath="$PROJECT_DIR$/QLNV_hoanthien/QLNV_hoanthien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4/QLSP/QLSP.iml" filepath="$PROJECT_DIR$/session4/QLSP/QLSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4/Quanlysinhvien/Quanlysinhvien.iml" filepath="$PROJECT_DIR$/session4/Quanlysinhvien/Quanlysinhvien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson5/Thuchanh1/Thuchanh1.iml" filepath="$PROJECT_DIR$/sesson5/Thuchanh1/Thuchanh1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/sesson2/Variable-DataType/Variable-DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4/bai1/bai1.iml" filepath="$PROJECT_DIR$/session4/bai1/bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session6/bai2/bai2.iml" filepath="$PROJECT_DIR$/session6/bai2/bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4/bai2/bai21.iml" filepath="$PROJECT_DIR$/session4/bai2/bai21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session6/bai3/bai3.iml" filepath="$PROJECT_DIR$/session6/bai3/bai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4/bai3/bai31.iml" filepath="$PROJECT_DIR$/session4/bai3/bai31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session6/baitap1/baitap1.iml" filepath="$PROJECT_DIR$/session6/baitap1/baitap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/baitaphienhello/baitaphienhello.iml" filepath="$PROJECT_DIR$/sesson2/baitaphienhello/baitaphienhello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson3/baitapmang1/baitapmang1.iml" filepath="$PROJECT_DIR$/sesson3/baitapmang1/baitapmang1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/baitaptrenlopfor/baitaptrenlopfor.iml" filepath="$PROJECT_DIR$/sesson2/baitaptrenlopfor/baitaptrenlopfor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/bmi-calculator/bmi-calculator.iml" filepath="$PROJECT_DIR$/sesson2/bmi-calculator/bmi-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/check-prime2/check-prime2.iml" filepath="$PROJECT_DIR$/sesson2/check-prime2/check-prime2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/day-of-month/day-of-month.iml" filepath="$PROJECT_DIR$/sesson2/day-of-month/day-of-month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/draw-geometry/draw-geometry.iml" filepath="$PROJECT_DIR$/sesson2/draw-geometry/draw-geometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/greatest-common-factor/greatest-common-factor.iml" filepath="$PROJECT_DIR$/sesson2/greatest-common-factor/greatest-common-factor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/interest-calculator/interest-calculator.iml" filepath="$PROJECT_DIR$/sesson2/interest-calculator/interest-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/line-equation-resolver/line-equation-resolver.iml" filepath="$PROJECT_DIR$/sesson2/line-equation-resolver/line-equation-resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson5/package/package.iml" filepath="$PROJECT_DIR$/sesson5/package/package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4/session4.iml" filepath="$PROJECT_DIR$/session4/session4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session6/session6.iml" filepath="$PROJECT_DIR$/session6/session6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session7/session7.iml" filepath="$PROJECT_DIR$/session7/session7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/sesson2.iml" filepath="$PROJECT_DIR$/sesson2/sesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson5/sesson5.iml" filepath="$PROJECT_DIR$/sesson5/sesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/taotigia/taotigia.iml" filepath="$PROJECT_DIR$/sesson2/taotigia/taotigia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4/test/test.iml" filepath="$PROJECT_DIR$/session4/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session6/thuchanh1/thuchanh1.iml" filepath="$PROJECT_DIR$/session6/thuchanh1/thuchanh1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson2/ungdungdocsothanhchu/ungdungdocsothanhchu.iml" filepath="$PROJECT_DIR$/sesson2/ungdungdocsothanhchu/ungdungdocsothanhchu.iml" />
+    </modules>
+  </component>
+</project>

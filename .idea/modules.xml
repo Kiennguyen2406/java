@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/Baithuchanh/Baithuchanh.iml" filepath="$PROJECT_DIR$/Module2/Sission4/Baithuchanh/Baithuchanh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/QLSP/QLSP.iml" filepath="$PROJECT_DIR$/Module2/Sission4/QLSP/QLSP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/Quanlysinhvien/Quanlysinhvien.iml" filepath="$PROJECT_DIR$/Module2/Sission4/Quanlysinhvien/Quanlysinhvien.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/Sission4.iml" filepath="$PROJECT_DIR$/Module2/Sission4/Sission4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module2/Sission4/bai1/bai1.iml" filepath="$PROJECT_DIR$/Module2/Sission4/bai1/bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/session4/Baithuchanh/Baithuchanh.iml" filepath="$PROJECT_DIR$/module2/session4/Baithuchanh/Baithuchanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/session4/QLSP/QLSP.iml" filepath="$PROJECT_DIR$/module2/session4/QLSP/QLSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/session4/Quanlysinhvien/Quanlysinhvien.iml" filepath="$PROJECT_DIR$/module2/session4/Quanlysinhvien/Quanlysinhvien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/session4/bai1/bai1.iml" filepath="$PROJECT_DIR$/module2/session4/bai1/bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/session4/bai2/bai2.iml" filepath="$PROJECT_DIR$/module2/session4/bai2/bai2.iml" />
       <module fileurl="file://$PROJECT_DIR$/baitapmang/baitapmang.iml" filepath="$PROJECT_DIR$/baitapmang/baitapmang.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module2/Sisson3/baitapmang1/baitapmang1.iml" filepath="$PROJECT_DIR$/Module2/Sisson3/baitapmang1/baitapmang1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/sesson3/baitapmang1/baitapmang1.iml" filepath="$PROJECT_DIR$/module2/sesson3/baitapmang1/baitapmang1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/session6/entity/entity.iml" filepath="$PROJECT_DIR$/module2/session6/entity/entity.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_bootcamp.iml" filepath="$PROJECT_DIR$/java_bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/sesson5/package/package.iml" filepath="$PROJECT_DIR$/module2/sesson5/package/package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/session4/session4.iml" filepath="$PROJECT_DIR$/module2/session4/session4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/session6/session6.iml" filepath="$PROJECT_DIR$/module2/session6/session6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/sesson5/sesson5.iml" filepath="$PROJECT_DIR$/module2/sesson5/sesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/session4/test/test.iml" filepath="$PROJECT_DIR$/module2/session4/test/test.iml" />
     </modules>
   </component>
 </project>

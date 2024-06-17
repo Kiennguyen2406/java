@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thuchanh1/Thuchanh1.iml" filepath="$PROJECT_DIR$/Thuchanh1/Thuchanh1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai2/bai2.iml" filepath="$PROJECT_DIR$/bai2/bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap1/baitap1.iml" filepath="$PROJECT_DIR$/baitap1/baitap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/package/package.iml" filepath="$PROJECT_DIR$/package/package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesson5.iml" filepath="$PROJECT_DIR$/sesson5.iml" />
+    </modules>
+  </component>
+</project>
