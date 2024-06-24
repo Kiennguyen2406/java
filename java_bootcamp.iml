@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/apj-tennis-game/test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/module2/apj-2023-calculator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/module2/sesson3/Array/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/module2/apj-2023-junit-calculator/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

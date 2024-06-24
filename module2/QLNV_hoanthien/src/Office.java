@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Office {
+    public static final int SELEC=1;
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Số lượng");
@@ -80,17 +81,18 @@ public class Office {
                             System.out.println("Mã");
                             String Code2 = scanner.nextLine();
                             sl.deleteStaff(Code2);
+                        }
                         } else {
                             System.out.println("không tìm thấy công nhân cần xóa");
                         }
                         break;
-                        case 5:
 
-                            System.out.println("Thoát chương trình");
+                        case 5:
+                            System.out.println("Thoát chương trình.");
                             scanner.close();
                             System.exit(0);
                         default:
-                            System.out.println("Lựa chọn không hợp lệ");
+                            System.out.println("Lựa chọn không hợp lệ.");
                     }
             }
         }
