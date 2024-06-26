@@ -32,17 +32,23 @@
       <module fileurl="file://$PROJECT_DIR$/module2/session6/entity/entity.iml" filepath="$PROJECT_DIR$/module2/session6/entity/entity.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_bootcamp.iml" filepath="$PROJECT_DIR$/java_bootcamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/sesson5/package/package.iml" filepath="$PROJECT_DIR$/module2/sesson5/package/package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/sesson14/sapxepchen/sapxepchen.iml" filepath="$PROJECT_DIR$/module2/sesson14/sapxepchen/sapxepchen.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/session4/session4.iml" filepath="$PROJECT_DIR$/module2/session4/session4.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/session6/session6.iml" filepath="$PROJECT_DIR$/module2/session6/session6.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/sesson10/sesson10.iml" filepath="$PROJECT_DIR$/module2/sesson10/sesson10.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/sesson11/sesson11.iml" filepath="$PROJECT_DIR$/module2/sesson11/sesson11.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/sesson13/sesson13.iml" filepath="$PROJECT_DIR$/module2/sesson13/sesson13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/sesson14/sesson14.iml" filepath="$PROJECT_DIR$/module2/sesson14/sesson14.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/sesson5/sesson5.iml" filepath="$PROJECT_DIR$/module2/sesson5/sesson5.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/sesson7/sesson7.iml" filepath="$PROJECT_DIR$/module2/sesson7/sesson7.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/sesson8/sesson8.iml" filepath="$PROJECT_DIR$/module2/sesson8/sesson8.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/sesson9/sesson9.iml" filepath="$PROJECT_DIR$/module2/sesson9/sesson9.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/session4/test/test.iml" filepath="$PROJECT_DIR$/module2/session4/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/sesson14/thuattoanchon/thuattoanchon.iml" filepath="$PROJECT_DIR$/module2/sesson14/thuattoanchon/thuattoanchon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/sesson14/thuattoannoibot/thuattoannoibot.iml" filepath="$PROJECT_DIR$/module2/sesson14/thuattoannoibot/thuattoannoibot.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2/sesson9/thuchanh2/thuchanh2.iml" filepath="$PROJECT_DIR$/module2/sesson9/thuchanh2/thuchanh2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/sesson13/tranning1/tranning1.iml" filepath="$PROJECT_DIR$/module2/sesson13/tranning1/tranning1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/sesson13/tranning2/tranning2.iml" filepath="$PROJECT_DIR$/module2/sesson13/tranning2/tranning2.iml" />
     </modules>
   </component>
 </project>
