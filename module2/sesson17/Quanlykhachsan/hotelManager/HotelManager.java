@@ -1,3 +1,7 @@
+package hotelManager;
+
+import room.Room;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;

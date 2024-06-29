@@ -1,3 +1,5 @@
+package room;
+
 public class Room {
     private int numberRoom;
     private String typeRoom;
@@ -49,7 +51,7 @@ public class Room {
 
     @Override
     public String toString() {
-        return "Room{" +
+        return "room.Room{" +
                 "numberRoom=" + numberRoom +
                 ", typeRoom='" + typeRoom + '\'' +
                 ", priceRoom=" + priceRoom +
