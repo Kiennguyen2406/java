@@ -15,7 +15,7 @@ public class CreditCardNumber {
         //b5:4 chu so tu 0 den 9 [0-9]{4}
         //b6:sau 4 chu so là dấu -.
         //b7:4 chu so tu 0 den 9 [0-9]{4}
-        String creditCardNumber = "^([0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}$";
+        String creditCardNumber = "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}$";
         Pattern pattern = Pattern.compile(creditCardNumber);
         Matcher matcher = pattern.matcher(cardCode);
         return matcher.matches();
