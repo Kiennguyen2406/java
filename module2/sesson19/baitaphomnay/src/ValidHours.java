@@ -11,7 +11,7 @@ public class ValidHours {
 
     private static boolean isValidHours(String hours) {
         //b1: Điền 2 chữ so thể hiện gio chay tu 00->24.[0-1][0-9]|(2)[0-3]
-        //b2:Dien 2 chu so the hien phut 00->60.[0-5][0-9]|(60)
+        //b2:Dien 2 chu so the hien phut 00->59.[0-5][0-9]
 
         String validHours = "^([0-1][0-9]|(2)[0-3]):([0-5][0-9])$";
         Pattern pattern = Pattern.compile(validHours);
